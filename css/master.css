@@ -1,0 +1,14 @@
+/* Code par Nelga | www.nelga.fr */
+
+* {
+  margin: 0;
+  font-family: 'Rubik', sans-serif;
+}
+
+body {
+  background-color: #E7E7E7;
+}
+
+.nope {
+  display: none;
+}

@@ -1,0 +1,46 @@
+.matchs-sizing {
+  display: flex;
+  justify-content: center;
+  width: 1200px;
+  max-width: 1200px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.matchs {
+  display: flex;
+  justify-content: center;
+}
+
+.matchs-box {
+  background-color: #FFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  margin-top: 25px;
+  border-radius: 4px;
+}
+
+.team-img {
+  width: 10%;
+  border-radius: 4px;
+}
+
+.matchs-name {
+  padding: 30px;
+}
+
+.lose {
+  background-color: #3A3A3A;
+  padding: 15px;
+  border-radius: 4px;
+  color: white;
+}
+
+.win {
+  background-color: #E53444;
+  padding: 15px;
+  border-radius: 4px;
+  color: white;
+}

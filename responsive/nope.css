@@ -1,0 +1,27 @@
+.header, .content {
+  display: none;
+}
+
+.nope {
+  display: flex;
+}
+
+.nope-msg {
+  display: flex;
+}
+
+.teams-main {
+  display: none;
+}
+
+.footer {
+  display: none;
+}
+
+.matchs {
+  display: none;
+}
+
+.palmares {
+  display: none;
+}

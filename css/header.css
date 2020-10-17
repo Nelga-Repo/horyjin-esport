@@ -1,0 +1,64 @@
+/* Code par Nelga | www.nelga.fr */
+
+.header-sizing {
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.header {
+  background-color: #3A3A3A;
+  width: 100%;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  width: 100px;
+}
+.logo img {
+  padding-top: 6px;
+  width: 60%;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+}
+
+.menu {
+  margin-right: 10px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: white;
+  padding-right: 15px;
+  font-size: 14px;
+}
+
+.menu a:hover {
+  color: #E53444;
+  transition: 0.3s;
+}
+
+.d-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 15px 8px 15px;
+  background-color: #E53444;
+  border-radius: 4px;
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+}
+
+.d-btn:hover {
+  background-color: #bc2532;
+  transition: 0.3s;
+}
